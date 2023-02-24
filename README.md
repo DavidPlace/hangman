@@ -1,3 +1,44 @@
+# Hangman Game
+
+### A game for word lovers and risk takers. 🤘
+
+Are you ready to put your spelling skills to the test and risk it all? Then you're in the right place! Hangman Game is the ultimate game of mystery and vocabulary. 
+
+### How to Play
+
+- Start by clicking on the "Start Game" button, if you dare. 
+- A secret word will be selected at random from our collection of words that only a true wordsmith could know.
+- Guess one letter at a time to uncover the hidden word.
+- If you guess a letter that's not in the word, a part of the hangman's body will be added. 
+- If you guess all the letters correctly before the hangman is complete, you win! But if the hangman is complete before you guess the word, you lose.
+
+### Installation
+
+1. Make sure you have [Node.js](https://nodejs.org) installed on your computer.
+2. Download or clone this repository to your local machine.
+3. Open the terminal or command prompt and navigate to the project directory.
+4. Run `npm install` to install the necessary dependencies.
+5. Run `npm start` to start the game.
+6. Enjoy the game!
+
+### Technologies Used
+
+- React
+- React-Bootstrap
+- JavaScript
+- HTML
+- CSS
+
+### Credits
+
+This game was created by David as part of HyperionDev's webdev bootcamp. 
+
+
+#### Now go ahead, and prove you're the ultimate wordsmith. 💪🏽
+
+----------------------------------------------------------------------------------------------------------
+# REACT DOCUMENTATION:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
